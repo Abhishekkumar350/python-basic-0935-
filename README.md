@@ -71,7 +71,7 @@ fibonacci_and_structure.py — Fibonacci series and Student class
 largest_number.py — finds the largest of three numbers
 smallest_number.py — finds the smallest of three numbers
 sum_2_numbers.py — calculates the sum of two numbers
-session_4_25bcon0907.py — contains factorial, Fibonacci, and Student class code
+session_4_25bcon0935.py — contains factorial, Fibonacci, and Student class code
 Author
 
 25BCON0935
